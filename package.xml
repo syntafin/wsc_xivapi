@@ -5,10 +5,10 @@
     <packagename language="de"><![CDATA[XIVAPI WCF]]></packagename>
     <packagedescription><![CDATA[This package provides basic functions from XIVAPI for WCF.]]></packagedescription>
     <packagedescription language="de"><![CDATA[Dieses Paket bringt die Basis Funktionen von XIVAPI in das WCF.]]></packagedescription>
-    <packageurl><![CDATA[https://shop.softcreatr.de/product/31]]></packageurl>
+    <packageurl></packageurl>
     <version>1.0.0</version>
     <date>2020-05-20</date>
-    <license><![CDATA[Commercial <https://support.softcreatr.de/lizenzbedingungen/#kommerzielle-produkte>]]></license>
+    <license></license>
 </packageinformation>
 
 <authorinformation>
