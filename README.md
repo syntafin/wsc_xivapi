@@ -1,3 +1,5 @@
+<p align="center"><a href="https://syntafin.dev" target="_blank"><img src="https://share.syntafin.de/github/dev_slogan.png" width="600" /></a></p>
+
 # XIVAPI-WCF
 <p align="center">
 <a href="https://github.com/syntafin/wsc_xivapi/blob/master/LICENSE"><img src="https://img.shields.io/github/license/syntafin/xivdata?label=License&labelColor=30363D&color=2FBF50" alt="License"></a>
