@@ -1,6 +1,6 @@
 <p align="center"><a href="https://syntafin.dev" target="_blank"><img src="https://share.syntafin.de/github/dev_slogan.png" width="600" /></a></p>
 
-# XIVAPI-WCF
+# XIVAPI-WSC
 <p align="center">
 <a href="https://github.com/syntafin/wsc_xivapi/blob/master/LICENSE"><img src="https://img.shields.io/github/license/syntafin/xivdata?label=License&labelColor=30363D&color=2FBF50" alt="License"></a>
 <a href="https://github.com/syntafin/wsc_xivapi/graphs/contributors"><img src="https://img.shields.io/github/contributors/syntafin/xivdata?label=Contributors&labelColor=30363D&color=2FBF50" alt="Contributors"></a>
@@ -28,13 +28,13 @@ For more information and our guidelines, please refer to the [CONTRIBUTING.md](C
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For available versions, see the [tags on this repository](https://github.com/XIVDATA/public/tags).
+We use [SemVer](http://semver.org/) for versioning. For available versions, see the [tags on this repository](https://github.com/syntafin/xivapi-wsc/tags).
 
 ## Authors
 
 * **Syntafin** - *Main development* - [Syntafin](https://github.com/syntafin)
 
-See also the list of [contributors](https://github.com/XIVDATA/public/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/syntafin/xivapi-wsc/graphs/contributors) who participated in this project.
 
 ## Support
 
